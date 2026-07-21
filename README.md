@@ -44,6 +44,26 @@ The application returns image details such as:
 ```
 
 ---
+## 📦 Amazon S3
+
+<p align="center">
+<img src="screenshots/s3_bucket.png" width="900"/>
+</p>
+## ⚡ AWS Lambda
+
+<p align="center">
+<img src="screenshots/lambda-succes.png" width="900"/>
+</p>
+## 🌐 API Gateway
+
+<p align="center">
+<img src="screenshots/api-gateway.png" width="900"/>
+</p>
+## ✅ Output
+
+<p align="center">
+<img src="screenshots/output.png" width="900"/>
+</p>
 
 # ☁️ AWS Services Used
 
