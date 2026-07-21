@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 # 📸 AWS Image Metadata Agent
 
 ![AWS](https://img.shields.io/badge/AWS-Serverless-orange?style=for-the-badge&logo=amazonaws)
